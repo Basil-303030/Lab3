@@ -1,0 +1,10 @@
+h1{color:red;
+background-color:#000000;}
+h2{color:rgb(255, 255, 255);
+background-color:hsl(140, 100%, 30%);}
+h3{background-color:yellow;}
+p{color:hsl(241 47.4% 77.6%);}
+ul{background-color:hsl(312 66.1% 65.3%);}
+ol{color:lightgray;
+background-color:hsl(0, 0%, 100%);}
+html{background-color:hsla(303, 85%, 34%, 1);}
